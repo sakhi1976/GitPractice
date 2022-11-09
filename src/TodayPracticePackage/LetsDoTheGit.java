@@ -7,5 +7,10 @@ public class LetsDoTheGit {
 		System.out.println("this is my love");
 
 	}package 
+		
+		
+public class LetsDoTheGit {
+
+	public static void main(String[] args) {
 
 }
